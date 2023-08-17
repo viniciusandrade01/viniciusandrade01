@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Vinícius</h1>
-<h3 align="center">XXXXXXXXX altamente motivado e apaixonado pelo desenvolvimento de software.</h3>
+<h3 align="center">Altamente motivado e apaixonado por Engenharia de Dados e Desenvolvimento de Software.</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=viniciusandrade01&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusandrade01" /> 
